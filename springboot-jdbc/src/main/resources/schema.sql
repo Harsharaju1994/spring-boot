@@ -1,0 +1,5 @@
+create table alian(
+    id int primary key,
+    name varchar(20),
+    tech varchar(20)
+);
